@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.headerDiv {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    color: rgb(65, 65, 65);
+    background-color: rgb(250, 250, 250);
+    border-radius: 0.8rem 0.8rem 0 0;
+    padding: 1rem 0;
+}
+
+img {
+    width: 7%;
+}
+
+p {
+    font-size: 1.8rem;
+}
